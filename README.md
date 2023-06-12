@@ -6,3 +6,11 @@ Direct Football
 - [Video of application](https://www.youtube.com/watch?v=jB6MgtuU9Xs)
 - [API of application](https://www.api-football.com)
 
+
+Screenshots
+ 
+![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194052.png)  ![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194145.png)
+
+![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194820.png)  ![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194857.png)
+
+![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194932.png)  ![image](https://github.com/canucar7/Direct-Football/blob/main/test/Screenshot_20230117_194944.png)
